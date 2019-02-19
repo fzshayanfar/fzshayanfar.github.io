@@ -1,8 +1,5 @@
-#welcome{
-    position: absolute;
-    
-    font-size: 28pt;
+#welcome{    
+    font-size: 18pt;
     font-weight: bold;
     color: cornflowerblue;
-
 }
